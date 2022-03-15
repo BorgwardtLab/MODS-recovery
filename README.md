@@ -15,4 +15,4 @@ Code for the recovery prediction in pediatric sepsis patients with Multiple Orga
 ### Contact:
 This code is developed by members of the [Machine Learning and Computational Biology Lab](https://www.bsse.ethz.ch/mlcb).
 
-- [Bowen Fan](https://github.com/percyfan)
+- [Bowen Fan](https://github.com/percyfan) (bowen.fan@bsse.ethz.ch)
